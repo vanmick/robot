@@ -1,0 +1,9 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(TickingTimebombBb-RB0l.ttf);
+}
+  
+h1{
+    font-family: myFirstFont;
+    color: orange;
+}
